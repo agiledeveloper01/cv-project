@@ -1,4 +1,3 @@
-fastrlock
-gunicorn
-flasgger
-flask
+flasgger==0.9.3
+Flask==1.1.1
+gunicorn==19.9.0
