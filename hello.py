@@ -26,4 +26,4 @@ def test_api():
   return jsonify(ans={"main_color":"red", "main_shape":["00100", "01010", "10001", "01010", "00100"]})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+    app.run()
