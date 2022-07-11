@@ -1,3 +1,4 @@
 fastrlock==2.1.2
 gunicorn==20.1.0
 flasgger==0.9.5
+fastrlock==0.8
